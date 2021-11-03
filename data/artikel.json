@@ -1,0 +1,104 @@
+[
+  {
+    "idArtikel": 100201,
+    "tanggal": "01/10/2021",
+    "authors": "Muhamad Adi Yaksa",
+    "image": "alarm.jpg",
+    "judul": "how to have good quality sleep?",
+    "kategori": ["tips and trick"],
+    "deskripsi": "Quality Slep Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 1,
+    "komen": [
+      {
+        "nama": "Yaksa",
+        "tanggal": "02/10/2021 09:10",
+        "isikomen": "Bagus nih artikelnya"
+      }
+    ]
+  },
+  {
+    "idArtikel": 100202,
+    "tanggal": "29/09/2021",
+    "authors": "Muhamad Rinaldi",
+    "image": "javascript.jpg",
+    "judul": "one use of async and await functions",
+    "kategori": ["programming", "javascript"],
+    "deskripsi": "Async is a function Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 12,
+    "komen": [
+      {
+        "nama": "Rara",
+        "tanggal": "01/10/2021 06:20",
+        "isikomen": "Bagus nih artikelnya"
+      }
+    ]
+  },
+  {
+    "idArtikel": 100203,
+    "tanggal": "29/09/2021",
+    "authors": "Rismawati",
+    "image": "mobile.jpg",
+    "judul": "how to get money from mobile app?",
+    "kategori": ["tips and trick ", "mobile app"],
+    "deskripsi": "Money can be important right now Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 13,
+    "komen": [
+      {
+        "nama": "bayu",
+        "tanggal": "12/08/2021 09:10",
+        "isikomen": "Apaan nih, masih kurang ah"
+      }
+    ]
+  },
+  {
+    "idArtikel": 100204,
+    "tanggal": "29/09/2021",
+    "authors": "Aldi Taher",
+    "image": "music.jpg",
+    "judul": "the best list of music for you",
+    "kategori": ["tips and trick"],
+    "deskripsi": "Music for you Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 19,
+    "komen": [
+      {
+        "nama": "Enol",
+        "tanggal": "12/08/2021 09:10",
+        "isikomen": "Yah gila ae"
+      }
+    ]
+  },
+  {
+    "idArtikel": 100205,
+    "tanggal": "30/09/2021",
+    "authors": "Zyan Zidane Malik",
+    "image": "web.jpg",
+    "judul": "time to code",
+    "kategori": ["tips and Trick", "pemrograman"],
+    "deskripsi": "the best time for ngoding Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 9,
+    "komen": [
+      {
+        "nama": "Nurul",
+        "tanggal": "12/08/2021 09:10",
+        "isikomen": "Sangat membantu isinya"
+      }
+    ]
+  },
+  {
+    "idArtikel": 100206,
+    "tanggal": "30/09/2021",
+    "authors": "Muhamad Abraham",
+    "image": "wireframe.jpg",
+    "judul": "how to make wireframe",
+    "kategori": ["programming"],
+    "deskripsi": "wireframe for web app development Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, dolorem nulla? Animi aperiam, ipsum quaerat quibusdam reiciendis nesciunt nobis accusantium esse doloremque possimus quas ab provident aliquam dicta, adipisci ipsa. Officiis quos facilis non et nisi esse, maxime laudantium sunt. Illo, perferendis. Quam ratione unde harum omnis earum iste laudantium fugiat tenetur sit! Minima harum doloribus pariatur quos, aut nobis at corporis, magnam nulla laboriosam unde aliquid qui repudiandae aperiam nam rem! Qui adipisci quod maiores consequatur est saepe, iusto harum inventore sint neque temporibus dignissimos numquam amet nesciunt, perferendis fugit at vitae officiis a possimus necessitatibus ut itaque! Similique!",
+    "jumlahklik": 4,
+    "komen": [
+      {
+        "nama": "Yaksa",
+        "tanggal": "12/08/2021 09:10",
+        "isikomen": "Bagus nih artikelnya"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+    <title>ARTIKEL PROGRAMMING</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#">ProgCycle</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-item nav-link active" href="#">Artikel</a>
+            <a class="nav-item nav-link" href="#">About Me</a>
+            <a class="nav-item nav-link" href="#">Trending</a>
+            <a class="nav-item nav-link" href="#">Populer</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <section class="judul pt-4 pb-2">
+      <div class="container">
+        <div class="row">
+          <div class="col-md"><h2>Whats Going On Today</h2></div>
+          <div class="col-md search">
+            <div class="input-group mb-3">
+              <input type="text" class="form-control input-keyword" placeholder="Search Some Artikel" aria-label="Recipient's username" aria-describedby="button-addon2" />
+              <button class="btn btn-light rounded-circle close"><span>x</span></button>
+              <div class="input-group-append">
+                <button class="btn btn-outline-light fw-bold search-button" type="button" id="button-addon2">Search</button>
+              </div>
+            </div>
+            <ul class="list-group"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="artikel mb-5">
+      <div class="container">
+        <div class="row d-flex justify-content-between">
+          <div class="col-md-3 text-center px-3 category">
+            <ul class="list-group">
+              <li class="list-group-item d-flex justify-content-center align-items-center">
+                <h5>Category</h5>
+              </li>
+              <li class="list-group-item d-flex align-items-center">
+                <button class="btn btn-outline-secondary d-block my-2 w-100 all-category" type="all-category">All Category</button>
+              </li>
+              <li class="list-group-item d-flex align-items-center">
+                <button class="btn btn-outline-secondary d-block my-2 w-100 programming" type="programming">Programming</button>
+              </li>
+              <li class="list-group-item d-flex align-items-center">
+                <button class="btn btn-outline-secondary d-block my-2 w-100 javascript" type="javascript">JavaScript</button>
+              </li>
+              <li class="list-group-item d-flex align-items-center">
+                <button class="btn btn-outline-secondary d-block my-2 w-100 mobileapp" type="mobile app">Mobile App</button>
+              </li>
+              <li class="list-group-item d-flex align-items-center">
+                <button class="btn btn-outline-secondary d-block my-2 w-100 tipsandtrick" type="tips and trick">Tips And Trick</button>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-9">
+            <div class="row artikel-card"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Modal -->
+    <div class="modal fade" id="getName" tabindex="-1" aria-labelledby="getNameLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="getNameLabel">Name</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <input type="text" class="form-control px-3 py-2 comment-name" placeholder="What's Your Name?" />
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary send-button" data-bs-dismiss="modal">Send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section class="footer bg-light pt-3">
+      <div class="container">
+        <p>Thanks</p>
+        <p>Regards, Muhamad Adi Yaksa</p>
+      </div>
+    </section>
+  </body>
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="jsArtikel.js"></script>
+</html>
